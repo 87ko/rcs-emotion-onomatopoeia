@@ -1,0 +1,9 @@
+/* CSS */
+
+.imgFit {
+	object-fit: contain;
+}
+
+.plainText {
+	font-size: 0.9rem;
+}
